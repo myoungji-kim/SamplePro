@@ -14,6 +14,8 @@ public class GitTestMain {
 		System.out.println("Hotfix Final");
 		
 		System.out.println("깃허브 연겨어어얼");
+		System.out.println("깃허브에서 수정");
+		
 	}
 
 }
