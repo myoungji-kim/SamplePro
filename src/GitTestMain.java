@@ -10,7 +10,7 @@ public class GitTestMain {
 		System.out.println("Hotfix Branch2");
 		
 		System.out.println("hotfiz Branch3");
-		System.out.println("adfadfa");
+		System.out.println("Master Final");
 	}
 
 }
