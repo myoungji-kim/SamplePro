@@ -5,6 +5,7 @@ public class GitTestMain {
 		// TODO Auto-generated method stub
 		System.out.println("Git-Test");
 		System.out.println("Master 브랜치");
+		System.out.println("Master 브랜치2");
 	}
 
 }
