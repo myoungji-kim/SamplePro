@@ -17,6 +17,8 @@ public class GitTestMain {
 		System.out.println("깃허브에서 수정");
 		
 		System.out.println("!!!!");
+		
+		System.out.println("hotfix remote merge");
 	}
 
 }
